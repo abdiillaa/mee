@@ -541,7 +541,7 @@
               </div>
               <div>
                 <p class="detail-label">ҰБТ</p>
-                <p class="detail-value">100/140</p>
+                <p class="detail-value">106/140</p>
               </div>
               <div>
                 <p class="detail-label">Бағыт</p>
@@ -572,7 +572,7 @@
 
       <section class="highlights" id="highlights" data-animate>
         <div class="highlight-card">
-          <p class="highlight-number">100/140</p>
+          <p class="highlight-number">106/140</p>
           <p class="highlight-title">ҰБТ нәтижесі</p>
           <p class="highlight-body">Ұлттық бірыңғай тестілеу.</p>
         </div>
