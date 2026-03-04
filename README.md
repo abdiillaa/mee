@@ -528,7 +528,7 @@
         <div class="hero-card">
           <div class="profile-card">
             <div class="profile-top">
-              <div class="profile-avatar">R</div>
+              <div class="profile-avatar">S</div>
               <div>
                 <p class="profile-name">Sayan Abdilla</p>
                 <p class="profile-meta">Бастау-2 мектебі • Киберқауіпсіздік, 2027</p>
